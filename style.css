@@ -36,3 +36,9 @@ form{
     text-align: center;
     color: rgb(53, 85, 6);
 }
+
+#countdown{
+    font-size: 68px;
+    color: blue;
+    text-align: center;
+}
